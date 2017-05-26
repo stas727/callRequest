@@ -1,0 +1,12 @@
+{
+    "name": "krokus/call-request",
+    "description": "Package for create call request",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stanislav Tiutiunnyk",
+            "email": "stasmail727@gmail.com"
+        }
+    ],
+    "require": {}
+}
